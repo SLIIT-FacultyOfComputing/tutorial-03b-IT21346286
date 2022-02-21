@@ -7,7 +7,7 @@ int main() {
  cout << "No"<<setw(15) << "Name" <<setw(10)<< "Marks" << endl;
  for (int r = 0; r < 5; r++) {
      cout << setw(2)<< r+1<<setw(15) 
-          <<  names[r]<<setw(9)
+          <<  names[r]<<setw(10)
          << fixed << setprecision(2) << marks[r] << endl;
    }
 }
