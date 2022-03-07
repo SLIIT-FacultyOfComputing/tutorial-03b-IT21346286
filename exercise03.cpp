@@ -26,6 +26,7 @@ int main() {
     
     cout << "Enter Box 2 Height : ";
     cin >> Height of Box 2;
+  
     cout << "Enter Box 2 Width : ";
     cin >> Width of Box 2;
     cout << "Enter Box 2 Length : ";
